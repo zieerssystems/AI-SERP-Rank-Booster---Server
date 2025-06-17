@@ -1,0 +1,43 @@
+🟢 Received JSON: 
+🔵 Decoded Data: 
+🟢 Received JSON: {"campaign_id":"47","user_id":"1"}
+🔵 Decoded Data: Array
+(
+    [campaign_id] => 47
+    [user_id] => 1
+)
+
+🟢 Received JSON: 
+🔵 Decoded Data: 
+🟢 Received JSON: {"campaign_id":"46","user_id":"1"}
+🔵 Decoded Data: Array
+(
+    [campaign_id] => 46
+    [user_id] => 1
+)
+
+🟢 Received JSON: {"campaign_id":"43","user_id":"1"}
+🔵 Decoded Data: Array
+(
+    [campaign_id] => 43
+    [user_id] => 1
+)
+
+🟢 Received JSON: 
+🔵 Decoded Data: 
+🟢 Received JSON: {"campaign_id":"1","user_id":"1"}
+🔵 Decoded Data: Array
+(
+    [campaign_id] => 1
+    [user_id] => 1
+)
+
+🟢 Received JSON: 
+🔵 Decoded Data: 
+🟢 Received JSON: {"campaign_id":"1","user_id":"1"}
+🔵 Decoded Data: Array
+(
+    [campaign_id] => 1
+    [user_id] => 1
+)
+

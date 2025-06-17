@@ -1,0 +1,20 @@
+[08-Apr-2025 08:59:17 UTC] ❌ in start.php : 
+[08-Apr-2025 08:59:17 UTC] PHP Warning:  Undefined variable $input in C:\wamp64\www\SERP\api\searchkb.php on line 24
+[08-Apr-2025 08:59:17 UTC] PHP Stack trace:
+[08-Apr-2025 08:59:17 UTC] PHP   1. {main}() C:\wamp64\www\SERP\api\searchkb.php:0
+[08-Apr-2025 08:59:17 UTC] ❌ in start.php : 
+[08-Apr-2025 08:59:17 UTC] PHP Warning:  Undefined variable $input in C:\wamp64\www\SERP\api\searchkb.php on line 24
+[08-Apr-2025 08:59:17 UTC] PHP Stack trace:
+[08-Apr-2025 08:59:17 UTC] PHP   1. {main}() C:\wamp64\www\SERP\api\searchkb.php:0
+[08-Apr-2025 09:00:03 UTC] ❌ in start.php : 
+[08-Apr-2025 09:00:03 UTC] PHP Warning:  Undefined variable $input in C:\wamp64\www\SERP\api\searchkb.php on line 24
+[08-Apr-2025 09:00:03 UTC] PHP Stack trace:
+[08-Apr-2025 09:00:03 UTC] PHP   1. {main}() C:\wamp64\www\SERP\api\searchkb.php:0
+[08-Apr-2025 09:01:23 UTC] ❌ in start.php : 
+[08-Apr-2025 09:01:23 UTC] PHP Warning:  Undefined variable $input in C:\wamp64\www\SERP\api\searchkb.php on line 24
+[08-Apr-2025 09:01:23 UTC] PHP Stack trace:
+[08-Apr-2025 09:01:23 UTC] PHP   1. {main}() C:\wamp64\www\SERP\api\searchkb.php:0
+[08-Apr-2025 09:01:23 UTC] ❌ in start.php : 
+[08-Apr-2025 09:01:23 UTC] PHP Warning:  Undefined variable $input in C:\wamp64\www\SERP\api\searchkb.php on line 24
+[08-Apr-2025 09:01:23 UTC] PHP Stack trace:
+[08-Apr-2025 09:01:23 UTC] PHP   1. {main}() C:\wamp64\www\SERP\api\searchkb.php:0
