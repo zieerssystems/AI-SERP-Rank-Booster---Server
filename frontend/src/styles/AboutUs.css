@@ -1,0 +1,71 @@
+/* Smooth Zoom Effect on Images */
+.zoom-effect {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .zoom-effect:hover {
+    transform: scale(1.05);
+  }
+  
+  /* Mission & Team Cards Styling */
+  .mission-card, .team-card {
+    background: linear-gradient(135deg, #f9f9f9 30%, #e8f5e9 100%);
+    border-radius: 15px;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  }
+  
+  .mission-card:hover, .team-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Sticky Navbar */
+  .sticky-top {
+    background: rgba(255, 255, 255, 0.9) !important;
+    backdrop-filter: blur(10px);
+  }
+  
+  /* Typography Enhancements */
+  h2 {
+    font-size: 2.5rem;
+    letter-spacing: 1px;
+  }
+  
+  h4 {
+    font-size: 1.8rem;
+  }
+  
+  p {
+    font-size: 1.1rem;
+  }
+  
+
+  .hero-section {
+    background: linear-gradient(to right,rgb(75, 122, 68), #243B55);
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+  }
+  .hero-image {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    margin-bottom: 20px;
+  }
+  .feature-box {
+    padding: 20px;
+    background: #f8f9fa;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(166, 22, 22, 0.1);
+    transition: transform 0.3s ease;
+  }
+  .feature-box:hover {
+    transform: scale(1.05);
+  }
+  .footer {
+    background: #141E30;
+  }

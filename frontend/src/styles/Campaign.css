@@ -1,0 +1,50 @@
+/* Navbar Custom Styling */
+.navbar-custom {
+    background: linear-gradient(135deg, #000428 30%, #004e92 100%);
+    color: white;
+  }
+  
+  /* Hero Section */
+  .hero-image {
+    margin-top: 30px;
+    border-radius: 20px;
+    width: 70%;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .hero-image:hover {
+    transform: scale(1.05);
+  }
+  
+  /* Feature Section */
+  .why-us-section {
+    background: linear-gradient(135deg, #004e92 30%, #00c6ff 100%);
+    border-radius: 15px;
+  }
+  
+  .feature-card {
+    border-radius: 15px;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .feature-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Step Cards */
+  .step-card {
+    background: linear-gradient(135deg, #f8f9fa 30%, #e3f2fd 100%);
+    border-radius: 15px;
+  }
+  
+  .step-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  /* Call to Action */
+  button:hover {
+    transform: scale(1.1);
+    transition: 0.3s ease-in-out;
+  }
+  
